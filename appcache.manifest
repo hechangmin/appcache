@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+CACHE:
+#绝对路径 和 相对路径都可以
+jquery.js
+demo.css
+
+#off.html
+
+#FALLBACK:
+# 替代方案
+#online.html off.html
+
+NETWORK:
+demo.js
+*
+#NETWORK，若除了CACHE定义的文件之外的文件都不要缓存，则NETWORD:下必须写个*.否则可能造成CACHE外的文件全部加载不了。

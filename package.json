@@ -1,0 +1,19 @@
+{
+  "name": "applicationCache demo",
+  "version": "1.0.0",
+  "description": "html5 applicationCache",
+  "homepage": "http://github.com/hechangmin/appcache",
+  "keywords": [
+    "applicationCache",
+    "html5"
+  ],
+  "author": {
+    "name": "hechangmin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hechangmin/appcache.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
